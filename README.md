@@ -14,3 +14,8 @@ Assinale as alternativas que você julga que sejam as respostas corretas e apert
 ![readme3](https://user-images.githubusercontent.com/71888064/105496686-95a1e200-5c9c-11eb-8847-6b8a0f3459a4.png)
 
 Após responder todas as perguntas, você pode ver sua pontuação, ou simplesmente, clicar para jogar novamente. 
+<br>
+
+![readme2](https://user-images.githubusercontent.com/71888064/105496870-d1d54280-5c9c-11eb-88de-7a2e030e1292.png)
+
+Divirta-se mostrando os seus conhecimentos sobre os nossos craques da bola.
