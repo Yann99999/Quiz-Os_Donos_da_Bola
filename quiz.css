@@ -1,0 +1,198 @@
+#card1{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}
+#card2{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}            
+#card3{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card4{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card5{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card6{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card7{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card8{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card9{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card10{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card11{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}    
+#card12{
+    background-color:orange;
+    width: 450px;
+    height: 530px;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 70px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px rgb(182, 63, 19);
+}
+body{
+    background-image: url(https://www.jcdecor.com.br/media/catalog/product/p/i/piso-vini_lico-em-manta---espessura-0_7mm---madeira-verniz-brilho.jpg);
+       background-size: 100%;
+       background-repeat: inherit;
+   }
+   h1{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;        
+    background-color: orange;
+    height: 120px;
+    width: 500px;  
+    border-radius: 60px;
+    margin-left: 28%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 38px;
+}                                                                                                         
+button{
+    align-items: center ;
+    margin: 10px;
+    background-color: rgb(12, 211, 211);
+    border-radius: 30px;
+}
+button:hover{
+    filter: brightness(80%);          
+}
+button:active{                              
+    transform: scale(0.8);
+}
+input[type=radio]{
+    align-items: center ;
+    margin: 15px;
+}
+button[type=button]{
+    align-items: center ;
+    margin: 10px;
+    background-color: rgb(12, 211, 211);
+    border-radius: 30px;
+    margin-left: 41%;
+    font-size: 20px;
+
+
+}
+h3{
+    background-color: orange;
+    height: 32px;
+    width: 180px;
+    text-align: center;
+    align-items: left;
+    border-radius: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    margin-left: 150px;
+}

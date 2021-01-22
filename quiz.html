@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="quiz.css" rel = "stylesheet">
+    <script language="JavaScript" src ="quiz.js"> </script>                                     
+    <title>Os Donos da Bola</title>
+</head>
+<body>
+    <main>
+        <h1>QUIZ OS DONOS DA BOLA</h1>
+    <section id  = "jogo">
+        <div id="card1" class="card">
+        <h2>1- Para qual time torce o craque neto</h2>
+        <img id="img-1" src="imagens/1.jpg" alt="#" width="350px" height="200px"><br>
+        <input type="radio" name = "resp-1" id="alt11"> <label for="">Corinthians</label>
+        <br>
+        <input type="radio" name = "resp-1" id="alt12"> <label for="">Palmeiras</label>
+        <br>
+        <input type="radio" name = "resp-1" id="alt13"> <label for="">Santos</label>
+        <br>
+        <button onclick="pergunta1()">Enviar</button>
+        <br>
+        <span id="resp1"><span>
+        </div>
+        <div id="card2" class="class">
+        <h2>2-                                      Qual a frase mais falada pelo Edilsu?</h2>
+            <img id="img-3" src="imagens/2.jpg" alt="#" width="350px" height="200px"><br>
+            <input type="radio" name = "resp-2" id="alt14"> <label for="">Eu discordo craque</label>
+            <br>
+            <input type="radio" name = "resp-2" id="alt15"> <label for="">Eu fui jogador e sei como é lá dentro</label>
+            <br>
+            <input type="radio" name = "resp-2" id="alt16"> <label for="">O treinador perdeu o vestiário</label>
+            <br>
+            <button onclick="pergunta2()">Enviar</button>
+            <br>
+            <span id="resp2"><span>
+            </div>
+            <div id="card2" class="class">
+        <h2>3- Qual o apelido dado a este senhor, pelo Craque Neto?</h2>
+                <img id="img-3" src="imagens/3.jpg" alt="#" width="350px" height="200px"><br>
+                <input type="radio" name = "resp-3" id="alt17"> <label for="">Zangão</label>
+                <br>
+                <input type="radio" name = "resp-3" id="alt18"> <label for="">Canhão Cabedipinto</label>
+                <br>
+                <input type="radio" name = "resp-3" id="alt19"> <label for="">Cabelo de boneca</label>
+                <br>
+                <button onclick="pergunta3()">Enviar</button>
+                <br>
+                <span id="resp3"><span>
+                </div>
+<div id="card4" class="class">
+    <h2>4- Qual era a posição do Velloso, quando ainda era jogador de futebol?</h2>
+            <img id="img-4" src="imagens/4.jpg" alt="#" width="350px" height="200px"><br>
+            <input type="radio" name = "resp-4" id="alt20"> <label for="">Atacante</label>
+            <br>
+            <input type="radio" name = "resp-4" id="alt21"> <label for="">Meio-campista</label>
+            <br>
+            <input type="radio" name = "resp-4" id="alt22"> <label for="">Goleiro</label>
+            <br>
+            <button onclick="pergunta4()">Enviar</button>
+            <br>
+            <span id="resp4"><span>
+            </div>             
+<div id="card5" class="class">
+    <h2>5- Qual o verdadeiro nome do grande Maravilha?</h2>
+            <img id="img-5" src="imagens/5.jpg" alt="#" width="350px" height="200px"><br>
+            <input type="radio" name = "resp-5" id="alt23"> <label for="">José Ferreira</label>
+            <br>
+            <input type="radio" name = "resp-5" id="alt24"> <label for="">Dirceu Marchioli</label>
+            <br>
+            <input type="radio" name = "resp-5" id="alt25"> <label for="">Celso Portiolli</label>
+            <br>
+            <button onclick="pergunta5()">Enviar</button>
+            <br>
+            <span id="resp5"><span>
+            </div>
+            <div id="card6" class="class">
+                <h2>6- Há quanto tempo o craque Neto apresenta os Donos da Bola?</h2>
+                        <img id="img-6" src="imagens/6.jpg" alt="#" width="350px" height="200px"><br>
+                        <input type="radio" name = "resp-6" id="alt26"> <label for="">9 anos</label>
+                        <br>
+                        <input type="radio" name = "resp-6" id="alt27"> <label for="">8 anos</label>
+                        <br>
+                        <input type="radio" name = "resp-6" id="alt28"> <label for="">7 anos</label>
+                        <br>
+                        <button onclick="pergunta6()">Enviar</button>
+                        <br>
+                        <span id="resp6"><span>
+                        </div>
+                        <div id="card7" class="class">
+                            <h2>7- Selecione a alternativa que cita um bordão dito pelo Maravilha:</h2>
+                                    <img id="img-7" src="imagens/7.jpg" alt="#" width="350px" height="200px"><br>
+                                    <input type="radio" name = "resp-7" id="alt29"> <label for="">Não confunda catraca de canhão com conhaque de alcatrão</label>
+                                    <br>
+                                    <input type="radio" name = "resp-7" id="alt30"> <label for="">Camarão que dorme a onda leva</label>
+                                    <br>
+                                    <input type="radio" name = "resp-7" id="alt31"> <label for="">Eu dou na guela, você gostando ou não</label>
+                                    <br>
+                                    <button onclick="pergunta7()">Enviar</button>
+                                    <br>
+                                    <span id="resp7"><span>
+                                    </div>
+                                    <div id="card8" class="class">
+                                    <h2>8- O que aconteceu nesse dia?</h2>
+                                    <img id="img-8" src="imagens/8.jpg" alt="#" width="350px" height="200px"><br>
+                                    <input type="radio" name = "resp-" id="alt32"> <label for="">Velloso briga com Edilsu</label>
+                                    <br>
+                                    <input type="radio" name = "resp-8" id="alt33"> <label for="">Edilsu discorda de Velloso</label>
+                                    <br>
+                                    <input type="radio" name = "resp-8" id="alt34"> <label for="">Edilsu desmerece Velloso por ter sido goleiro</label>
+                                    <br>
+                                    <button onclick="pergunta8()">Enviar</button>
+                                    <br>
+                                    <span id="resp8"><span>
+                                    </div>
+                                    <div id="card9" class="class">   
+                                    <h2>9- Qual o apelido do Edilsu, quando era jogador?</h2>
+                                    <img id="img-9" src="imagens/9.jpg" alt="#" width="350px" height="200px"><br>
+                                    <input type="radio" name = "resp-9" id="alt35"> <label for="">Edilsu Jogadô</label>
+                                    <br>
+                                    <input type="radio" name = "resp-9" id="alt36"> <label for="">Edilson Capetinha</label>
+                                    <br>
+                                    <input type="radio" name = "resp-9" id="alt37"> <label for="">Edilson Pagodeiro</label>
+                                    <br>
+                                    <button onclick="pergunta9()">Enviar</button>
+                                    <br>
+                                    <span id="resp9"><span>
+                                    </div>
+                                    <div id="card10" class="class">   
+                                        <h2>10- Em que emissora é transmitido o programa? </h2>
+                                        <img id="img-10" src="imagens/10.jpg" alt="#" width="350px" height="200px"><br>
+                                        <input type="radio" name = "resp-10" id="alt38"> <label for="">Globo
+                                        <br>
+                                        <input type="radio" name = "resp-10" id="alt39"> <label for="">SBT</label>
+                                        <br>
+                                        <input type="radio" name = "resp-10" id="alt40"> <label for="">Band</label>
+                                        <br>
+                                        <button onclick="pergunta10()">Enviar</button>
+                                        <br>
+                                        <span id="resp10"><span>
+                                        </div>  
+                                        <div id="card11" class="class">   
+                                            <h2>11- O que o craque Neto grita nesse exato momento?</h2>
+                                            <img id="img-11" src="imagens/11.jpg" alt="#" width="350px" height="200px"><br>
+                                            <input type="radio" name = "resp-11" id="alt41"> <label for=""> PÃÃÃOO!</label>
+                                            <br>
+                                            <input type="radio" name = "resp-11" id="alt42"> <label for="">CAMBADA DE ZÉ RUELA!</label>
+                                            <br>
+                                            <input type="radio" name = "resp-11" id="alt43"> <label for="">EU NUM JOGO MAAAIS!</label>
+                                            <br>
+                                            <button onclick="pergunta11()">Enviar</button>
+                                            <br>
+                                            <span id="resp11"><span>
+                                            </div>
+                                            <div id="card11" class="class">   
+                                                <h2>12- Cite um bordão do Craque Neto:</h2>
+                                                <br>
+                                                <img id="img-12" src="imagens/12.jpg" alt="#" width="350px" height="200px"><br>
+                                                <input type="radio" name = "resp-12" id="alt44"> <label for="">Carro 1.0 subindo ladeira.</label>
+                                                <br>
+                                                <input type="radio" name = "resp-12" id="alt45"> <label for="">Não perca seu raciocínio, garotinho.</label>
+                                                <br>
+                                                <input type="radio" name = "resp-12" id="alt46"> <label for="">To certo, ou não?</label>
+                                                <br>
+                                                <button onclick="pergunta12()">Enviar</button>
+                                                <br>
+                                                <span id="resp12"><span>
+                                                </div>
+<h3>Pontuação: <span id = "result"></span></h3>
+
+<button type="button" onclick="localStorage.clear(); location.reload();"> Jogue de novo</button>
+                                                                           
+    </section>
+    </main>
+    
+</body>
+</html>
