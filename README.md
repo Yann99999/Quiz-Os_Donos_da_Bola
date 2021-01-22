@@ -9,3 +9,8 @@ Clique no link para jogar: https://yann99999.github.io/Quiz-Os_Donos_da_Bola/qui
 
 <h1 >Como Jogar?</h1>
 Assinale as alternativas que você julga que sejam as respostas corretas e aperte o botão enviar para fazer a verificação. Caso a resposta esteja correta, você será declarado(a) um monstro sagrado, caso contrário, pereça como um pé de rato.
+<br>
+
+![readme3](https://user-images.githubusercontent.com/71888064/105496686-95a1e200-5c9c-11eb-8847-6b8a0f3459a4.png)
+
+Após responder todas as perguntas, você pode ver sua pontuação, ou simplesmente, clicar para jogar novamente. 
